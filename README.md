@@ -2,6 +2,19 @@
 
 A smart contract built on the Soroban platform that enables trustless atomic swaps of tokens between two parties.
 
+## Contract
+
+ℹ️  Skipping install because wasm already installed
+ℹ️  Using wasm hash c6106ac12b08a606ca8243babb00436b57fce4f80896deb61eb5f9c9867298bc
+ℹ️  Simulating deploy transaction…
+ℹ️  Transaction hash is a97a841e4df3f1f251083cfa35e8f8595b53caf836f90c273f33930eceabcbd1
+🔗 https://stellar.expert/explorer/testnet/tx/a97a841e4df3f1f251083cfa35e8f8595b53caf836f90c273f33930eceabcbd1
+ℹ️  Signing transaction: a97a841e4df3f1f251083cfa35e8f8595b53caf836f90c273f33930eceabcbd1
+🌎 Submitting deploy transaction…
+🔗 https://stellar.expert/explorer/testnet/contract/CCFSWBIJFR6MNLSRS3OHB6PC2USXQ4R7L3SEQ3EOPAVJNT7VHVUVXAXR
+✅ Deployed!
+CCFSWBIJFR6MNLSRS3OHB6PC2USXQ4R7L3SEQ3EOPAVJNT7VHVUVXAXR
+
 ## Overview
 
 This contract facilitates atomic (indivisible) token exchanges between two different parties. The key feature is that parties don't need to know each other, and their signatures can be matched off-chain. The swap either completes entirely or not at all, eliminating counterparty risk.
