@@ -14,7 +14,7 @@ A smart contract built on the Soroban platform that enables trustless atomic swa
 - https://stellar.expert/explorer/testnet/contract/CCFSWBIJFR6MNLSRS3OHB6PC2USXQ4R7L3SEQ3EOPAVJNT7VHVUVXAXR
 
 - Deployed!
-CCFSWBIJFR6MNLSRS3OHB6PC2USXQ4R7L3SEQ3EOPAVJNT7VHVUVXAXR
+ CCFSWBIJFR6MNLSRS3OHB6PC2USXQ4R7L3SEQ3EOPAVJNT7VHVUVXAXR
 
 ## Overview
 
